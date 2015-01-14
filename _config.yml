@@ -1,6 +1,11 @@
 exclude:
+# Repo files
 - CNAME
 - LICENSE
-- node_modules
-- package.json
 - README.md
+# Package manager files
+- package.json
+- bower.json
+# Package manager directories
+- node_modules
+- bower_components
