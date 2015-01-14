@@ -16,7 +16,7 @@
     "jekyll",
     "github"
   ],
-  "author": "David Darnes",
+  "author": "David Darnes <me@daviddarnes.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/daviddarnes/bread.li/issues"
