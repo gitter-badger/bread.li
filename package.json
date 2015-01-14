@@ -1,0 +1,29 @@
+{
+  "name": "Bread.li",
+  "version": "0.0.1",
+  "description": "A directory site listing CMSs from around the web",
+  "main": "index.html",
+  "scripts": {
+    "test": "jekyll serve --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviddarnes/bread.li.git"
+  },
+  "keywords": [
+    "website",
+    "cms",
+    "jekyll",
+    "github"
+  ],
+  "author": "David Darnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviddarnes/bread.li/issues"
+  },
+  "homepage": "https://github.com/daviddarnes/bread.li",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.8.10"
+  }
+}
