@@ -7,11 +7,11 @@ title: Bread.li
 
 ## Baking Bread.li #4
 
-To be uploaded...
+<iframe width="640" height="360" src="//www.youtube.com/embed/yBLMTvQBckQ" frameborder="0" allowfullscreen></iframe>
 
 ## Baking Bread.li #3
 
-To be uploaded...
+<iframe width="640" height="360" src="//www.youtube.com/embed/DhHsh1JJFvM" frameborder="0" allowfullscreen></iframe>
 
 ## Baking Bread.li #2
 
