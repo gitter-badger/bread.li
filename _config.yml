@@ -6,6 +6,7 @@ exclude:
 # Package manager files
 - package.json
 - bower.json
+- gulpfile.js
 # Package manager directories
 - node_modules
 - bower_components
