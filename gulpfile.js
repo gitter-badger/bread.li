@@ -3,6 +3,7 @@ var gulp	= require('gulp');
 var rename	= require('gulp-rename');
 var bower	= require('main-bower-files');
 var filter	= require('gulp-filter');
+var replace	= require('gulp-replace');
 
 // JavaScript Task
 gulp.task('js', function() {
@@ -26,7 +27,7 @@ gulp.task('scss', function() {
 
 		.pipe(scssfilter)
 
-		.pipe(gulp.dest('_scss'))
+		.pipe(gulp.dest('_sass'))
 
 });
 
