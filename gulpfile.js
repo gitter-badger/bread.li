@@ -3,7 +3,6 @@ var gulp	= require('gulp');
 var rename	= require('gulp-rename');
 var bower	= require('main-bower-files');
 var filter	= require('gulp-filter');
-var replace	= require('gulp-replace');
 
 // JavaScript Task
 gulp.task('js', function() {
