@@ -26,7 +26,7 @@ gulp.task('scss', function() {
 
 		.pipe(scssfilter)
 
-		.pipe(gulp.dest('_scss'))
+		.pipe(gulp.dest('_sass'))
 
 });
 
