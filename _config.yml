@@ -13,6 +13,3 @@ exclude:
 # Package manager directories
 - node_modules
 - bower_components
-
-# Required gems
-gems: [bourbon, neat]
