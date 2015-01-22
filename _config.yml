@@ -1,9 +1,12 @@
+# Excluded files from site
 exclude:
 # Repo files
 - CNAME
 - LICENSE
 - README.md
 # Package manager files
+- Gemfile
+- Gemfile.lock
 - package.json
 - bower.json
 - gulpfile.js

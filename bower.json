@@ -23,8 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "html5shiv": "~3.7.2",
-    "bourbon": "~4.1.1",
-    "neat": "~1.7.1"
+    "html5shiv": "~3.7.2"
   }
 }
