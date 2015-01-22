@@ -1,7 +1,7 @@
 # Bread.li Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "sass"
-gem "bourbon"
-gem "neat"
+gem 'github-pages'
+gem 'bourbon'
+gem 'neat'
+gem 'bitters'
