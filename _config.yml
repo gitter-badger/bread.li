@@ -1,12 +1,18 @@
+# Excluded files from site
 exclude:
 # Repo files
 - CNAME
 - LICENSE
 - README.md
 # Package manager files
+- Gemfile
+- Gemfile.lock
 - package.json
 - bower.json
 - gulpfile.js
 # Package manager directories
 - node_modules
 - bower_components
+
+# Required gems
+gems: [bourbon, neat]
