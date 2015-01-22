@@ -3,7 +3,15 @@ layout: default
 title: Bread.li
 ---
 
-# Bread.li says "Hello World!"
+# Baking Bread.li
+
+## Baking Bread.li #9
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/4M06VWHIOJo" frameborder="0" allowfullscreen></iframe>
+
+## Baking Bread.li #8
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/qD4-dpR9LGQ" frameborder="0" allowfullscreen></iframe>
 
 ## Baking Bread.li #7
 
